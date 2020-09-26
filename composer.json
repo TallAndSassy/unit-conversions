@@ -1,16 +1,16 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "tallandsassy/unit-conversions",
+    "description": "Simple converts",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "tallandsassy",
+        "unit-conversions"
     ],
-    "homepage": "https://github.com/:vendor_name/:package_name",
+    "homepage": "https://github.com/tallandsassy/unit-conversions",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "JJ Rohrer",
+            "email": "jj.github@rohrer.org",
             "homepage": "https://spatie.be",
             "role": "Developer"
         }
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Skeleton\\": "src"
+            "Tallandsassy\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Skeleton\\Tests\\": "tests"
+            "Tallandsassy\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
