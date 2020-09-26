@@ -11,7 +11,7 @@ class Weight
     {
         $a = [
             'test',
-            'test'
+            'test',
         ];
     
         return new static($kilograms);
