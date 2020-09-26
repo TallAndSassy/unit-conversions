@@ -9,7 +9,6 @@ class Weight
 
     public static function fromKilograms(float $kilograms): self
     {
-
         return new static($kilograms);
     }
     public function __construct(float $kilograms)
