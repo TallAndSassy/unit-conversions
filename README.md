@@ -4,7 +4,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/tallandsassy/unit-conversions.svg)](https://packagist.org/packages/tallandsassy/unit-conversions)
 
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/tallandsassy/unit-conversions/Tests?label=tests)](https://github.com/tallandsassy/unit-conversions/actions?query=workflow%3ATests+branch%3Amaster)
-[![Code Coverage](https://img.shields.io/coveralls/github/tallandsassy/unit-conversions.svg)](https://coveralls.io/github/tallandsassy/unit-conversions)
+
 [![Coverage Status](https://coveralls.io/repos/github/TallAndSassy/unit-conversions/badge.svg?branch=master)](https://coveralls.io/github/TallAndSassy/unit-conversions?branch=master)
 
 [![Total Downloads](https://img.shields.io/packagist/dt/tallandsassy/unit-conversions.svg)](https://packagist.org/packages/tallandsassy/unit-conversions)
