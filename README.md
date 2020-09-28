@@ -1,7 +1,7 @@
 # Simple converts
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/tallandsassy/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/tallandsassy/unit-conversions)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/tallandsassy/unit-conversions/run-tests?label=tests)](https://github.com/tallandsassy/unit-conversions/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/tallandsassy/unit-conversions/run-tests?label=tests)](https://github.com/tallandsassy/unit-conversions/actions?query=workflow%3ATests+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/tallandsassy/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/tallandsassy/unit-conversions)
 
 
