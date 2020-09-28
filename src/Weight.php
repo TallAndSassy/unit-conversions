@@ -20,6 +20,7 @@ class Weight
         if ($this->kilograms == 0) {
             return -1;
         }
+
         return $this->kilograms * 2.204623;
     }
 
@@ -27,5 +28,4 @@ class Weight
     {
         return $this->kilograms * 2.204623;
     }
-
 }
