@@ -17,6 +17,15 @@ class Weight
     }
     public function toLbs(): float
     {
+        if ($this->kilograms == 0) {
+            return -1;
+        }
         return $this->kilograms * 2.204623;
     }
+
+    public function toStones(): float
+    {
+        return $this->kilograms * 2.204623;
+    }
+
 }
